@@ -6,6 +6,11 @@ A deep learning project that uses a **Simple Recurrent Neural Network (SimpleRNN
 
 This project uses the IMDB movie-review dataset provided by `tensorflow.keras.datasets.imdb`.
 
+## Live App
+
+[View the App](https://rnn-movies-sentimenment-analysis-ekwxewtchfeudymnfyrafh.streamlit.app/)
+
+
 The workflow is:
 
 1. Load the IMDB dataset.
